@@ -37,9 +37,3 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 | Natural Language Processing (NLP)|Project_Medicare_with_NLP|[Link to Project](https://github.com/EswarAditya5/Project_Medicare_With_NLP) |
 | Neural Network | Shoe_classification_by_CNN |[Link to Project](https://github.com/EswarAditya5/Shoe_Classification_by_CNN)|
 |                | social_Dilemma_Tweets_by_simpleRNN |[Link to project](https://github.com/EswarAditya5/Social_Dilemma_Tweets_by_RNN)|
-| |Market Basket Analysis-2 |[Project Link](https://github.com/ShravaniRajanelli/Market-Basket-Analysis-2)
-|**Neural Network**| | |
-|ANN|Heart Disease Artificial Neural Network|[Project Link](https://github.com/ShravaniRajanelli/Heart-Disease-Artificial-Neural-Network)| 
-|  | SeoulBike Data Artificial Neural Network |[Project Link](https://github.com/ShravaniRajanelli/SeoulBike-Data-Artificial-Neural-Network)|
-|RNN|Social Dilemma Tweet RNN |[Project Link](https://github.com/ShravaniRajanelli/Social-Dilemma-Tweet-RNN)
-|CNN| Shoes Image Classification using CNN|[Project Link](https://github.com/ShravaniRajanelli/Shoes-Image-Classification-using-CNN)
